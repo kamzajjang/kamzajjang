@@ -2,12 +2,16 @@
 
 # 김지원 | Data Analyst
 
-### `R` · `SQL` · `Python` · `Public Data` · `Healthcare`
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=R+%C2%B7+SQL+%C2%B7+Python;Public+Data+Analytics;Healthcare+%26+Bio+Data;Turning+Data+into+Insights"
+/>
+
+<br><br>
 
 데이터를 통해 문제를 발견하고,  
-분석 결과를 **실제 의사결정과 서비스로 연결하는 과정**에 관심이 있습니다.
+분석 결과를 <b>실제 의사결정과 서비스로 연결하는 과정</b>에 관심이 있습니다.
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
